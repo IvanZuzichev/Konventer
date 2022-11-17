@@ -1,0 +1,17 @@
+C:\Users\79671\source\repos\nedoword\nedoword\bin\Debug\net6.0\nedoword.exe
+C:\Users\79671\source\repos\nedoword\nedoword\bin\Debug\net6.0\nedoword.deps.json
+C:\Users\79671\source\repos\nedoword\nedoword\bin\Debug\net6.0\nedoword.runtimeconfig.json
+C:\Users\79671\source\repos\nedoword\nedoword\bin\Debug\net6.0\nedoword.dll
+C:\Users\79671\source\repos\nedoword\nedoword\bin\Debug\net6.0\nedoword.pdb
+C:\Users\79671\source\repos\nedoword\nedoword\obj\Debug\net6.0\nedoword.csproj.AssemblyReference.cache
+C:\Users\79671\source\repos\nedoword\nedoword\obj\Debug\net6.0\nedoword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79671\source\repos\nedoword\nedoword\obj\Debug\net6.0\nedoword.AssemblyInfoInputs.cache
+C:\Users\79671\source\repos\nedoword\nedoword\obj\Debug\net6.0\nedoword.AssemblyInfo.cs
+C:\Users\79671\source\repos\nedoword\nedoword\obj\Debug\net6.0\nedoword.csproj.CoreCompileInputs.cache
+C:\Users\79671\source\repos\nedoword\nedoword\obj\Debug\net6.0\nedoword.dll
+C:\Users\79671\source\repos\nedoword\nedoword\obj\Debug\net6.0\refint\nedoword.dll
+C:\Users\79671\source\repos\nedoword\nedoword\obj\Debug\net6.0\nedoword.pdb
+C:\Users\79671\source\repos\nedoword\nedoword\obj\Debug\net6.0\nedoword.genruntimeconfig.cache
+C:\Users\79671\source\repos\nedoword\nedoword\obj\Debug\net6.0\ref\nedoword.dll
+C:\Users\79671\source\repos\nedoword\nedoword\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\79671\source\repos\nedoword\nedoword\obj\Debug\net6.0\nedoword.csproj.CopyComplete
